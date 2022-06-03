@@ -1,7 +1,6 @@
 {
-    "name": "Ultraviolet App",
+    "name": "Iridium",
     "description": "Node.js Ultraviolet instance",
-    "repository": "https://github.com/titaniumnetwork-dev/ultraviolet-web-app",
-    "logo": "https://github.com/titaniumnetwork-dev/Ultraviolet/blob/main/uv.png?raw=true",
-    "keywords": ["tomp", "ultraviolet"]
+    "repository": "https://github.com/notquitezook/iridium-main",
+    "keywords": ["tomp", "ultraviolet", "nodejs", "node", "javascript", "iridium", "iridium-main"]
 }
