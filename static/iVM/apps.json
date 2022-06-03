@@ -1,0 +1,50 @@
+[{
+        "id": "0",
+        "title": "Vs Code",
+        "icon": "https://vscode.dev/static/stable/favicon.ico",
+        "type": "url",
+        "url": "https://vscode.dev"
+    },
+    {
+        "id": "1",
+        "title": "Invidious",
+        "icon": "https://invidious.io/favicon.ico",
+        "type": "url",
+        "url": "https://inv.riverside.rocks/feed/popular"
+    },
+    {
+        "id": "2",
+        "title": "CrownJS",
+        "icon": "apps/assets/crownjs.png",
+        "type": "js",
+        "js": "/apps/crownjs.js"
+    },
+    {
+        "id": "3",
+        "title": "Notepad",
+        "icon": "https://cdn3.iconfinder.com/data/icons/basic-ui-line-circle/605/121_-_Report-512.png",
+        "type": "url",
+        "url": "/apps/notepad.html"
+    },
+    {
+        "id": "4",
+        "title": "About",
+        "icon": "",
+        "type": "url",
+        "url": "apps/about.html"
+    },
+    {
+        "id": "5",
+        "title": "Iridium",
+        "icon": "apps/assets/Drawing-5.sketchpad.png",
+        "type": "url",
+        "url": "../index.html"
+    },
+    {
+        "id": "6",
+        "title": "Nebula",
+        "icon": "apps/assets/unknown.jpg",
+        "type": "url",
+        "url": "https://tutorialread.beauty/"
+    }
+]
