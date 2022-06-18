@@ -57,7 +57,6 @@ if (!popup || popup.closed) {
 }
 
 
-
 let theme_chooser = document.getElementById('theme-chooser-sel')
 theme_chooser.onchange = () => {
   localStorage.setItem('customThemeName', theme_chooser.options[theme_chooser.selectedIndex].value)
